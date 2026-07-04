@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="abdallah.Union_Bank"
+  DTS:DTSID="{E0FAF706-6FB7-4BB1-AB26-CA5023BFF55C}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=abdallah;Initial Catalog=Union_Bank;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-UnionBank_ETL-{E0FAF706-6FB7-4BB1-AB26-CA5023BFF55C}abdallah.Union_Bank;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
