@@ -142,8 +142,6 @@ Banking-DataWarehouse-ETL
 **Abdallah Moataz**
 
 - LinkedIn: https://www.linkedin.com/in/abdallahelsobkyy
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-
 ---
 
 ## ⭐ If you found this project useful, don't forget to give it a Star!
