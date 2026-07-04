@@ -80,7 +80,7 @@ Power BI Dashboard
 
 ### Database Diagram
 
-<img src="<img width="1251" height="782" alt="DWH" src="https://github.com/user-attachments/assets/8b56b256-dd29-4746-90cd-0adb3c6f1377" />">
+"<img width="1251" height="782" alt="DWH" src="https://github.com/user-attachments/assets/8b56b256-dd29-4746-90cd-0adb3c6f1377" />">
 
 ---
 
