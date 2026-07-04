@@ -86,19 +86,19 @@ Power BI Dashboard
 
 ### Master Package
 
-<img src="<img width="1105" height="604" alt="Screenshot 2026-07-04 061011" src="https://github.com/user-attachments/assets/a6d4f257-c99c-4749-b1c7-c208f0f23ff0" />">
+"<img width="1105" height="604" alt="Screenshot 2026-07-04 061011" src="https://github.com/user-attachments/assets/a6d4f257-c99c-4749-b1c7-c208f0f23ff0" />">
 
 ---
 
 ### Fact ETL
 
-<img src="<img width="772" height="577" alt="Screenshot 2026-07-04 060747" src="https://github.com/user-attachments/assets/135c74f9-2823-472f-bd9a-63272e344015" />">
+"<img width="772" height="577" alt="Screenshot 2026-07-04 060747" src="https://github.com/user-attachments/assets/135c74f9-2823-472f-bd9a-63272e344015" />">
 
 ---
 
 ### Dashboard
 
-<img src="<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 06_20_27 AM" src="https://github.com/user-attachments/assets/7834998f-3352-4bcf-8994-ec615e8136f1" />
+"<img width="1536" height="1024" alt="ChatGPT Image Jul 4, 2026, 06_20_27 AM" src="https://github.com/user-attachments/assets/7834998f-3352-4bcf-8994-ec615e8136f1" />
 ">
 
 ---
